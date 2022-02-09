@@ -1,1 +1,1 @@
-# quantum-pattern-matching
+# hidden-shift-problem
