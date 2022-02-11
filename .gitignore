@@ -1,0 +1,3 @@
+# ignore all files in these directories
+.ipynb_checkpoints/
+qiskit-textbook/
