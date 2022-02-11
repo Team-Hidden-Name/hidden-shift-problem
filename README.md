@@ -1,7 +1,7 @@
+# Team Hidden Name
+
 # Qiskit Hackathon Korea 2022 (Feb.7 - Feb.10)
 [Issue #13 Implement the algorithm for the hidden shift problem and explain it!](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/13)
-
-# Team Hidden Name
 
 ## Abstract
 - Study algorithms for the hidden shift problem
