@@ -22,15 +22,15 @@ We aim to make a tutorial notebook file that describes the hidden shift problem 
 4. K. Wright, K. M. Beck, S. Debnath et al. (2019), "Benchmarking an 11-qubit quantum computer", Nat Commun 10, 5464, [doi:10.1038/s41467-019-13534-2](https://doi.org/10.1038/s41467-019-13534-2)
 
 ## Members
- - Boseong Kim @BStar14 - Slack: `@BoSeong Kim` email: `boseong14@gmail.com`
- - Inhyuk Oh @OHINHYUK55
- - Sekang Kwon @skk9967
- - Sehoon Bang @hackathon-bsh
- - Junghun Phee @BiPhee
+ - Boseong Kim [@BStar14](https://github.com/BStar14) - Slack: `@BoSeong Kim` email: `boseong14@gmail.com`
+ - Inhyuk Oh [@OHINHYUK55](https://github.com/OHINHYUK55)
+ - Sekang Kwon [@skk9967](https://github.com/skk9967)
+ - Sehoon Bang [@hackathon-bsh](https://github.com/hackathon-bsh)
+ - Junghun Phee [@BiPhee](https://github.com/BiPhee)
 
 ## Mentors
- - Prof. Hyukjoon Kwon @hjkwon9001
- - Dr. Adel Sohbi @adelshb
+ - Prof. Hyukjoon Kwon [@hjkwon9001](https://github.com/hjkwon9001)
+ - Dr. Adel Sohbi [@adelshb](https://github.com/adelshb)
 
 ---
 
