@@ -28,7 +28,7 @@ We aim to make a tutorial notebook file that describes the hidden shift problem 
  - Sehoon Bang @hackathon-bsh
  - Junghun Phee @BiPhee
 
-## Mentor
+## Mentors
  - Prof. Hyukjoon Kwon @hjkwon9001
  - Dr. Adel Sohbi @adelshb
 
