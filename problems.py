@@ -5,7 +5,7 @@ def hsp_oracle(seed, shifted=False, fourier_transformed=False):
     np.random.seed(seed)
     s = np.random.randint(0, 2**6)
     oracle = QuantumCircuit(6)
-    if shifed and fourier_transformed:
+    if shifted and fourier_transformed:
         oracle.name = 'shifted fourier f'
     elif shifted:
         oracle.name = 'shifted f'
